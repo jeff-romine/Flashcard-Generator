@@ -4,7 +4,7 @@
   "description": "Regular and Cloze Flashcards",
   "main": "BasicCard.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",

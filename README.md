@@ -8,4 +8,10 @@ npm install
 ./node_modules/mocha/bin/mocha
 ```
 
+
+``` shell
+npm install
+npm test
+```
+
 The tests are implemented in test/test.js
