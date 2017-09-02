@@ -1,2 +1,11 @@
 # Flashcard-Generator
-Regular and Cloze Flashcards
+
+
+Instead of implementing a front end I added Mocha unit tests.  To run:
+
+``` shell
+npm install
+./node_modules/mocha/bin/mocha
+```
+
+The tests are implemented in test/test.js
